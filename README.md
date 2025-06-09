@@ -1,1 +1,1 @@
-# mushroom-classification
+# mushroom-classification-using-genetic-algorithm
